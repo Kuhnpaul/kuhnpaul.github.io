@@ -1,0 +1,34 @@
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    letter-spacing: 10px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+    margin-top: 50px;
+
+}
+
+.about {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.things {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 30px;
+}
+
+.week {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    margin-left: 635px;
+    margin-botom: 30px;
+}
+
+.body {
+    background: #606060;
+    color:#B0B0B0 ;
+}
