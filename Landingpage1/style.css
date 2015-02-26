@@ -1,0 +1,45 @@
+body {
+    background: #7BC8A4 ; 
+      margin: 0px;
+    padding: 0px;
+
+}
+
+.wrapper {
+     width: 800px;
+    background: #4CC3D9;
+    margin: auto;
+    padding: 25px ;
+    border-radius: 50px;
+}
+
+h1{
+    margin-top:60px
+}
+
+h2{
+    margin: auto;
+    text-align: center;   
+    margin-top: 50px;
+    
+}
+
+p {
+    font-weight:;
+    font-size: 30px;
+    color: white;
+   font-family: 'Raleway', sans-serif;
+    text-align: center;
+ 
+}
+
+li {
+
+    font-size: 30px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+
+}
+
+#content {width: 400px; float:right;}
