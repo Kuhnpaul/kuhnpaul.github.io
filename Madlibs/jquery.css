@@ -1,0 +1,53 @@
+body {background-color:grey;
+}
+
+div {color:white;
+    font-family:"arial";
+    font-size: 25px;
+    padding:10px;
+    line-height:50px;
+    letter-spacing:2px;
+}
+
+h1{
+    font-family:"arial";
+    text-align: center;
+    font-size:60px;
+    
+}
+
+
+#questions {
+    text-align: center;
+}
+
+#play {
+    font-family:"arial";
+    font-size: 50px;
+    color: red;
+    margin: 400px
+    
+   
+}
+  
+input {
+  
+    color:black;
+    height: 25px;
+    font-size: 25px;
+    font-family: "arial";
+    
+}
+
+#sentence {
+    font-size: 30px;
+    text-align: center;
+    
+    
+}
+
+span{
+    color: black;
+}
+
+
